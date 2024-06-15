@@ -1,0 +1,22 @@
+user1 123456 test
+李四 2 易
+布兰德 Brand 
+张三 1 易,user
+abc abc test
+liyutong 123456 java
+test test user1,abc,user,艾希
+阿卡丽 Akali 
+王五 3 易
+努努 Nunu 
+阿狸 Ahri 
+劫 Zed 
+2498036237 20011203 
+安妮 Annie 
+慎 Shen 
+易 Yi 李四,张三,王五
+java 123456 liyutong
+jojo jojo 
+user 123 张三,test
+艾希 Ashe test
+盖伦 Garen 
+阿木木 Amumu 
